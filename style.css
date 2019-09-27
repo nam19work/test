@@ -437,6 +437,7 @@ footer a:hover{
 ul#bottom {
 	padding-top:10px;
 	padding-bottom:10px;
+	paddind-left:0;
 	border-bottom:1px solid #444;
 	display:flex;
 }
