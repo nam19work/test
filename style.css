@@ -180,9 +180,15 @@ div#appel{
 	align-items:baseline;
 	padding-top:16px;
 }
+#appel p{
+	margin:0;
+}
 #appel .lage{
 	font-size:1.6875rem;
 }
+#appel p .lage {
+	margin:0;
+}	
 .page-title{
 	font-size:3rem;
 	font-family:'Philosopher',serif;
