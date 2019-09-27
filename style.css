@@ -186,7 +186,7 @@ div#appel{
 #appel .lage{
 	font-size:1.6875rem;
 }
-#appel p .lage {
+#appel p.lage {
 	margin:0;
 }	
 .page-title{
