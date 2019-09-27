@@ -159,7 +159,6 @@ ul#submenu li{
 	background-repeat:no-repeat;
 	background-size:contain;
 	height:480px;
-	margin-top:20px;
 }
 .home-content p{
 	font-size:1.125rem;
@@ -182,7 +181,7 @@ div#appel{
 div#content{
 	width:98%;
 	margin:10px auto 10px auto;
-	padding-bottom:600px;
+	padding-bottom:700px;
 }
 /*------mainbox----------------------------------------------*/
 div#mainbox{
